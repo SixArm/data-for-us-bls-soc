@@ -3,7 +3,7 @@
 
 ## 2021
 
-➤ <us-bls-soc-2021.tsv>
+➤ [Download us-bls-soc-2021.tsv](us-bls-soc-2021.tsv)
 
 ➤ <https://www.bls.gov/oes/current/oes_stru.htm>
 
@@ -16,7 +16,7 @@ Headers:
 
 ## 2018
 
-➤ <us-bls-soc-2018.tsv>
+➤ [Download us-bls-soc-2018.tsv](us-bls-soc-2018.tsv)
 
 ➤ <https://www.bls.gov/soc/2018/>
 
