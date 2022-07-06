@@ -1,4 +1,6 @@
-# SixArm.com → Data → United States (US) Bureau of Labor Statistics (BLS) Standard Occupational Classification (SOC)
+# SixArm.com → Data → United States (US) Bureau of Labor Statistics (BLS) → Standard Occupational Classification (SOC)
+
+➤ <https://www.bls.gov/oes/current/oes_stru.htm>
 
 ➤ <https://www.bls.gov/soc/2018/>
 
