@@ -1,4 +1,4 @@
-# SixArm.com → Data → United States (US) → Bureau of Labor Statistics (BLS) → Standard Occupational Classification (SOC)
+# Data → United States (US) → Bureau of Labor Statistics (BLS) → Standard Occupational Classification (SOC)
 
 
 ## 2021
